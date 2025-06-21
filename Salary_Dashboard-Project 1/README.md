@@ -34,7 +34,7 @@ The dataset comprises real-world data science job listings from 2023, featuring:
 
 #### 📊 Data Science Job Salaries - Bar Chart
 
-<img src="/../Images/Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Dashboard Chart1">
+<img src="../Images/Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Dashboard Chart1">
 
 - 🛠️ **Excel Features:** Leveraged bar charts with formatted salary values and optimized layout for clarity.
 - 🎨 **Design:** Horizontal bar chart to facilitate comparison of median salaries.
@@ -43,7 +43,7 @@ The dataset comprises real-world data science job listings from 2023, featuring:
 
 #### 🗺️ Country Median Salaries - Map Chart
 
-![Salary_Dashboard_Chart2.png](/../Images/Salary_Dashboard_Country_Map.gif)
+![Salary_Dashboard_Chart2.png](../Images/Salary_Dashboard_Country_Map.gif)
 
 - 🛠️ **Excel Features:** Used Excel's map chart to visualize median salaries by country.
 - 🎨 **Design:** Color-coded map to distinguish salary levels across regions.
@@ -74,11 +74,11 @@ IF(
 
 🍽️ Background Table
 
-![Salary_Dashboard_Screenshot1.png](/../Images/Salary_Dashboard_Screenshot1.png)
+![Salary_Dashboard_Screenshot1.png](../Images/Salary_Dashboard_Screenshot1.png)
 
 📉 Dashboard Implementation
 
-<img src="/../Images/Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
+<img src="../Images/Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
 
 #### ⏰ Count of Job Schedule Type
 
@@ -91,11 +91,11 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Type.png](/../Images/Salary_Dashboard_Screenshot2.png)
+![Salary_Dashboard_Type.png](../Images/Salary_Dashboard_Screenshot2.png)
 
 📉 Dashboard Implementation:
 
-<img src="/../Images/Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
+<img src="../Images/Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
 
 ### ❎ Data Validation
 
@@ -106,7 +106,7 @@ IF(
     - 🚫 Prevent incorrect or inconsistent entries
     - 👥 Improve overall dashboard usability
 
-<img src="/../Images/Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
+<img src="../Images/Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
 
 ## Conclusion
 
