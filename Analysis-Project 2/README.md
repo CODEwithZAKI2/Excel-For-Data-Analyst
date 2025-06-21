@@ -136,7 +136,7 @@ Understanding regional salary trends is crucial for both job seekers and employe
 - 💻 SQL and Python are the most sought-after skills, underscoring their importance in data processing and analytics.
 - ☁️ Cloud technologies like AWS and Azure are increasingly in demand, reflecting the industry’s shift toward cloud-based solutions.
 
-    ![2_Project_Analysis_Chart3.png](/../Images/Project_Analysis_Chart3.png)
+    ![2_Project_Analysis_Chart3.png](../Images/Project_Analysis_Chart3.png)
 
 **Takeaway:**  
 Staying current with in-demand skills such as SQL, Python, and cloud platforms is essential for career growth in data science.
