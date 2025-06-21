@@ -1,5 +1,5 @@
 # Sales Dashboard Project
-![Sales_Dashboard.png](/../Images/sales_dashboard.png)
+![Sales_Dashboard.png](../Images/sales_dashboard.png)
 ## Overview
 This project demonstrates advanced Excel skills through comprehensive data cleaning, analysis, and interactive dashboard creation using the `Sales.xlsx` dataset. The primary objective is to master and showcase key Excel functionalities, including data transformation, pivot tables, and data visualization.
 
@@ -45,7 +45,7 @@ Using Excel's Pivot Tables and advanced charting tools, the following analyses a
 - **Top 10 Products by Revenue:**
   - Identified the highest-grossing products to inform business strategy.
 
-![Sales_Dashboard.png](/../Images/sales_dashboard.png)
+![Sales_Dashboard.png](../Images/sales_dashboard.png)
 
 ## Excel Skills Demonstrated
 - Data cleaning and transformation
