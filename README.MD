@@ -16,4 +16,9 @@ This project showcases advanced Excel skills through data cleaning, analysis, an
 ![Project_Analysis_Chart1.png](Images/Project_Analysis_Chart1.png)
 This project explores the data science job landscape to identify valuable skills and their impact on salary potential. It addresses questions such as whether possessing more skills leads to higher pay, regional salary variations, and the most in-demand skills. The analysis uses Excel features like pivot tables, pivot charts, DAX, Power Query, and Power Pivot, based on real-world data science job listings from 2023.
 
-[Go to Analysis - Project ](./Analysis-Project%202/)
+[Go to Analysis - Project 2](./Analysis-Project%202/)
+
+## 120 Years of Olympic History
+This project analyzes 120 years of Olympic athlete events using Excel and Power Query. It demonstrates a complete data analysis workflow, including data cleaning, merging, exploratory data analysis, and dashboard creation. The project provides insights into athlete demographics, medal distributions, and trends across Olympic history, supported by clear visualizations and a professional dashboard.
+
+[Go to 120 Years of Olympic History Project](./120%20years%20of%20Olympic%20history/)
