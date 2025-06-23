@@ -19,6 +19,7 @@ This project explores the data science job landscape to identify valuable skills
 [Go to Analysis - Project 2](./Analysis-Project%202/)
 
 ## 120 Years of Olympic History
+![Final Dashboard](Images/athlete_dashboard.png)
 This project analyzes 120 years of Olympic athlete events using Excel and Power Query. It demonstrates a complete data analysis workflow, including data cleaning, merging, exploratory data analysis, and dashboard creation. The project provides insights into athlete demographics, medal distributions, and trends across Olympic history, supported by clear visualizations and a professional dashboard.
 
 [Go to 120 Years of Olympic History Project](./120%20years%20of%20Olympic%20history/)
